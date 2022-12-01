@@ -1,0 +1,30 @@
+part 1: getMovie
+//return results:
+//moviename search: tconst, title, year, runtime, isAdult
+//director search: tconst, title, year, runtime, isAdult, directorName
+//writer search: tconst, title, year, runtime, isAdult, writerName
+//actor search: tconst, title, year, runtime, isAdult, actorName
+//birthyear search: tconst, title, year, runtime, isAdult, person
+//deathyear search: tconst, title, year, runtime, isAdult, person
+//movierating search: tconst, title, year, runtime, isAdult, avgRating
+//year search: tconst, title, year, runtime, isAdult
+//runtime search: tconst, title, year, runtime, isAdult
+//genre search: tconst, title, year, runtime, isAdult, name
+
+2. part2: actor search
+//return results
+//nconst, name, birthyear, deathyear
+
+
+3. part 3: getPopularMovie
+//return results
+//tconst, title, year, runtime, isAdult, genre, avgRating
+
+
+4. part 4:random movie
+//return results
+//tconst, title, year, runtime, isAdul
+
+5. part 5: quality movie
+//return results
+//tconst, title, year, runtime, isAdult
